@@ -14,13 +14,11 @@
 
 <b>Passo 3.</b> Criação do modelo de Machine Learning Random Forest Regressor utilizando scikit-learn</p>
 
-<b>Passo 4.</b> Criação do modelo de Machine Learning Random Forest Regressor utilizando scikit-learn</p>
+<b>Passo 4.</b> Avaliação do modelo com R2, MSE e graficamente.</p>
 
-<b>Passo 5.</b> Avaliação do modelo com R2, MSE e graficamente.</p>
+<b>Passo 5.</b> Exportação do modelo.</p>
 
-<b>Passo 6.</b> Exportação do modelo.</p>
-
-<b>Passo 7.</b> Criação da API com Flask: https://github.com/igorvgp/previsao_alugueis/blob/main/aplicacao.py</p>
-<b>Passo 8.</b> Criação do banco de dados com SQL e sqlite3 para armazenar os logs da API: https://github.com/igorvgp/previsao_alugueis/blob/main/criacao_banco_de_dados.ipynb</p>
-<b>Passo 9.</b> Conexão e teste da API com Requests: https://github.com/igorvgp/previsao_alugueis/blob/main/conexao_com_API.ipynb</p>
+<b>Passo 6.</b> Criação da API com Flask: https://github.com/igorvgp/previsao_alugueis/blob/main/aplicacao.py</p>
+<b>Passo 7.</b> Criação do banco de dados com SQL e sqlite3 para armazenar os logs da API: https://github.com/igorvgp/previsao_alugueis/blob/main/criacao_banco_de_dados.ipynb</p>
+<b>Passo 8.</b> Conexão e teste da API com Requests: https://github.com/igorvgp/previsao_alugueis/blob/main/conexao_com_API.ipynb</p>
 
