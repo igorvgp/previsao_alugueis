@@ -1,5 +1,5 @@
 # Previsao alugueis
-### Desenvolvimento de uma solução End-to-end de um modelo de previsão de valores de alugueis em São Paulo.<br/>
+### Desenvolvimento de uma solução End-to-end de um modelo de previsão de valores de alugueis de imóveis em São Paulo.<br/>
 
 ![alt text](etapas.PNG)
 
